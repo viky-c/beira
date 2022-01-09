@@ -1,6 +1,6 @@
 {
   "name": "@beira/cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "chenyunqi <khat.yunqi@gmail.com>",
   "homepage": "https://github.com/ChenKhat/beira#readme",
@@ -28,7 +28,7 @@
     "typescript": "^4.5.4"
   },
   "dependencies": {
-    "yargs": "^17.3.1",
-    "@beira/utils": "file:../utils"
+    "@beira/utils": "file:../utils",
+    "yargs": "^17.3.1"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "name": "@beira/utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "chenyunqi <khat.yunqi@gmail.com>",
+  "homepage": "https://github.com/ChenKhat/beira#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenKhat/beira.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/ChenKhat/beira/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}

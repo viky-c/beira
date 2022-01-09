@@ -4,6 +4,9 @@
   "description": "> TODO: description",
   "author": "chenyunqi <khat.yunqi@gmail.com>",
   "homepage": "https://github.com/ChenKhat/beira#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "ISC",
   "main": "./lib/index.js",
   "bin": {
